@@ -1,0 +1,122 @@
+Flight No.,Date,Time,Version Booster,Launch site,Payload,Payload mass,Orbit,Customer,Launch outcome,Booster landing
+1,4,June,F9 v1.0,CCAFS,Dragon Spacecraft Qualification Unit,,LEO,SpaceX,Success,Failure[9][10](parachute)
+2,8,December,F9 v1.0,CCAFS,Dragon,,LEO,NASA,Success,Failure[9][14](parachute)
+3,22,May,F9 v1.0,CCAFS,Dragon,,LEO,NASA,Success,No attempt
+4,8,October,F9 v1.0,CCAFS,SpaceX CRS-1,,LEO,NASA,Success,No attempt
+5,1,March,F9 v1.0,CCAFS,SpaceX CRS-2,,LEO,NASA,Success,No attempt
+6,29,September,F9 v1.1,VAFB,CASSIOPE,,Polar orbit,MDA,Success,Uncontrolled(ocean)[d]
+7,3,December,F9 v1.1,CCAFS,SES-8,,GTO,SES,Success,No attempt[38]
+8,6,January,F9 v1.1,CCAFS,Thaicom 6,,GTO,Thaicom,Success,No attempt[43]
+9,18,April,F9 v1.1,Cape Canaveral,SpaceX CRS-3,,LEO,NASA,Success,Controlled(ocean) [d][46]
+10,14,July,F9 v1.1,Cape Canaveral,Orbcomm-OG2,,LEO,Orbcomm,Success,Controlled(ocean)[d][46]
+11,5,August,F9 v1.1,Cape Canaveral,AsiaSat 8,,GTO,AsiaSat,Success,No attempt[57]
+12,7,September,F9 v1.1,Cape Canaveral,AsiaSat 6,,GTO,AsiaSat,Success,No attempt
+13,21,September,F9 v1.1,Cape Canaveral,SpaceX CRS-4,,LEO,NASA,Success,Uncontrolled(ocean)[d][64]
+14,10,January,F9 v1.1,Cape Canaveral,SpaceX CRS-5,,LEO,NASA,Success,Failure (drone ship)
+15,11,February,F9 v1.1,Cape Canaveral,DSCOVR,,HEO,USAF,Success,Controlled(ocean)[d]
+16,2,March,F9 v1.1,Cape Canaveral,ABS-3A,,GTO,ABS,Success,No attempt[77]
+17,14,April,F9 v1.1,Cape Canaveral,SpaceX CRS-6,,LEO,NASA,Success,Failure[83](drone ship)
+18,27,April,F9 v1.1,Cape Canaveral,TürkmenÄlem 52°E / MonacoSAT,,GTO,Turkmenistan NationalSpace Agency[88],Success,No attempt[89]
+19,28,June,F9 v1.1,Cape Canaveral,SpaceX CRS-7,,LEO,NASA,Failure,Precluded[94](drone ship)
+20,22,December,F9 FT,Cape Canaveral,Orbcomm-OG2,,LEO,Orbcomm,Success,Success[99](ground pad)
+21,17,January,F9 v1.1,VAFB,Jason-3,,LEO,NASA,Success,Failure(drone ship)
+22,4,March,F9 FT,Cape Canaveral,SES-9,,GTO,SES,Success,Failure(drone ship)
+23,8,April,F9 FT,Cape Canaveral,SpaceX CRS-8,,LEO,NASA,Success,Success[118](drone ship)
+24,6,May,F9 FT,Cape Canaveral,JCSAT-14,,GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+25,27,May,F9 FT,Cape Canaveral,Thaicom 8,,GTO,Thaicom,Success,Success[133](drone ship)
+26,15,June,F9 FT,Cape Canaveral,ABS-2A,,GTO,ABS,Success,Failure[64](drone ship)
+27,18,July,F9 FT,Cape Canaveral,SpaceX CRS-9,,LEO,NASA,Success,Success(ground pad)
+28,14,August,F9 FT,Cape Canaveral,JCSAT-16,,GTO,SKY Perfect JSAT Group,Success,Success(drone ship)
+29,14,January,F9 FT,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,Success[154](drone ship)
+30,19,February,F9 FT,KSC,SpaceX CRS-10,,LEO,NASA,Success,Success(ground pad)
+31,16,March,F9 FT,KSC,EchoStar 23,,GTO,EchoStar,Success,No attempt[165]
+32,30,March,F9 FT,KSC,SES-10,,GTO,SES,Success,Success(drone ship)
+33,1,May,F9 FT,KSC,NROL-76,,LEO,NRO,Success,Success(ground pad)
+34,15,May,F9 FT,KSC,Inmarsat-5 F4,,GTO,Inmarsat,Success,No attempt[165]
+35,3,June,F9 FT,KSC,SpaceX CRS-11,,LEO,NASA,Success,Success(ground pad)
+36,23,June,F9 FT,KSC,BulgariaSat-1,,GTO,Bulsatcom,Success,Success(drone ship)
+37,25,June,F9 FT,VAFB,Iridium NEXT,,LEO,Iridium Communications,Success,Success(drone ship)
+38,5,July,F9 FT,KSC,Intelsat 35e,,GTO,Intelsat,Success,No attempt[165]
+39,14,August,F9 B4,KSC,SpaceX CRS-12,,LEO,NASA,Success,Success(ground pad)
+40,24,August,F9 FT,VAFB,Formosat-5,,SSO,NSPO,Success,Success(drone ship)
+41,7,September,F9 B4,KSC,Boeing X-37B,,LEO,USAF,Success,Success(ground pad)
+42,9,October,F9 B4,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,Success(drone ship)
+43,11,October,F9 FT,KSC,SES-11,,GTO,SES S.A.,Success,Success(drone ship)
+44,30,October,F9 B4,KSC,Koreasat 5A,,GTO,KT Corporation,Success,Success(drone ship)
+45,15,December,F9 FT,Cape Canaveral,SpaceX CRS-13,,LEO,NASA,Success,Success(ground pad)
+46,23,December,F9 FT,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,Controlled(ocean)[d][230]
+47,8,January,F9 B4,CCAFS,Zuma,,LEO,Northrop Grumman,Success,Success(ground pad)
+48,31,January,F9 FT,CCAFS,GovSat-1,,GTO,SES,Success,Controlled(ocean)[d][248]
+49,22,February,F9 FT,VAFB,Paz,,SSO,Hisdesat,Success,No attempt[271]
+50,6,March,F9 B4,CCAFS,Hispasat 30W-6,,GTO,Hispasat,Success,No attempt[281]
+51,30,March,F9 B4,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,No attempt[287]
+52,2,April,F9 B4,CCAFS,SpaceX CRS-14,,LEO,NASA,Success,No attempt[294]
+53,18,April,F9 B4,CCAFS,Transiting Exoplanet Survey Satellite,,HEO,NASA,Success,Success[306](drone ship)
+54,11,May,F9 B5,KSC,Bangabandhu-1,,GTO,Thales-Alenia,Success,Success[315](drone ship)
+55,22,May,F9 B4,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,No attempt[165]
+56,4,June,F9 B4,CCAFS,SES-12,,GTO,SES,Success,No attempt[165]
+57,29,June,F9 B4,CCAFS,SpaceX CRS-15,,LEO,NASA,Success,No attempt[165]
+58,22,July,F9 B5,CCAFS,Telstar 19V,,GTO,Telesat,Success,Success[344](drone ship)
+59,25,July,F9 B5,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,Success[352](drone ship)
+60,7,August,F9 B5,CCAFS,Merah Putih,,GTO,Telkom Indonesia,Success,Success[358](drone ship)
+61,10,September,F9 B5,CCAFS,Telstar 18V,,GTO,Telesat,Success,Success[361](drone ship)
+62,8,October,F9 B5,VAFB,SAOCOM 1A,,SSO,CONAE,Success,Success[363](ground pad)
+63,15,November,F9 B5,KSC,Es'hail 2,,GTO,Es'hailSat,Success,Success[370](drone ship)
+64,3,December,F9 B5,VAFB,SSO-A,,SSO,Spaceflight Industries,Success,Success[373](drone ship)
+65,5,December,F9 B5,CCAFS,SpaceX CRS-16,,LEO,NASA,Success,Failure[383](ground pad)
+66,23,December,F9 B5,CCAFS,GPS III,,MEO,USAF,Success,No attempt[386]
+67,11,January,F9 B5,VAFB,Iridium NEXT,,Polar,Iridium Communications,Success,Success(drone ship)
+68,22,February,F9 B5,CCAFS,Nusantara Satu,,GTO,PSN,Success,Success(drone ship)
+69,2,March,F9 B5,KSC,Crew Dragon Demo-1,,LEO,NASA,Success,Success(drone ship)
+70,4,May,F9 B5,CCAFS,SpaceX CRS-17,,LEO,NASA,Success,Success(drone ship)
+71,24,May,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+72,12,June,F9 B5,VAFB,RADARSAT Constellation,,SSO,Canadian Space Agency,Success,Success(ground pad)
+73,25,July,F9 B5,CCAFS,SpaceX CRS-18,,LEO,NASA,Success,Success(ground pad)
+74,6,August,F9 B5,CCAFS,AMOS-17,,GTO,Spacecom,Success,No attempt[474]
+75,11,November,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+76,5,December,F9 B5,CCAFS,SpaceX CRS-19,,LEO,NASA,Success,Success(drone ship)
+77,17,December,F9 B5,CCAFS,JCSat-18,,GTO,Sky Perfect JSAT,Success,Success(drone ship)
+78,7,January,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+79,19,January,F9 B5,KSC,Crew Dragon in-flight abort test,,Sub-orbital,NASA,Success,No attempt
+80,29,January,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+81,17,February,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Failure(drone ship)
+82,7,March,F9 B5,CCAFS,SpaceX CRS-20,,LEO,NASA,Success,Success(ground pad)
+83,18,March,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Failure(drone ship)
+84,22,April,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+85,30,May,F9 B5,KSC,Crew Dragon Demo-2,,LEO,NASA,Success,Success(drone ship)
+86,4,June,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+87,13,June,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+88,30,June,F9 B5,CCAFS,GPS III,,MEO,U.S. Space Force,Success,Success(drone ship)
+89,20,July,F9 B5,CCAFS,ANASIS-II,,GTO,Republic of Korea Army,Success,Success(drone ship)
+90,7,August,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+91,18,August,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+92,30,August,F9 B5,CCAFS,SAOCOM 1B,,SSO,CONAE,Success,Success(ground pad)
+93,3,September,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+94,6,October,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+95,18,October,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+96,24,October,F9 B5,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+97,5,November,F9 B5,CCAFS,GPS III,,MEO,USSF,Success,Success(drone ship)
+98,16,November,F9 B5,KSC,Crew-1,,LEO,NASA,Success,Success(drone ship)
+99,21,November,F9 B5,VAFB,Sentinel-6 Michael Freilich (Jason-CS A),,LEO,NASA,Success,Success(ground pad)
+100,25,November,F9 B5 ♺,CCAFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+101,6,December,F9 B5 ♺,KSC,SpaceX CRS-21,,LEO,NASA,Success,Success(drone ship)
+102,13,December,F9 B5 ♺,CCSFS,SXM-7,,GTO,Sirius XM,Success,Success(drone ship)
+103,19,December,F9 B5 ♺,KSC,NROL-108,,LEO,NRO,Success,Success(ground pad)
+104,8,January,F9 B5,CCSFS,Türksat 5A,,GTO,Türksat,Success,Success(drone ship)
+105,20,January,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+106,24,January,F9 B5,CCSFS,Transporter-1,,SSO,Various,Success,Success(drone ship)
+107,4,February,F9 B5 ♺,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+108,16,February,F9 B5 ♺,CCSFS,Starlink,,LEO,SpaceX,Success,Failure (drone ship)
+109,4,March,F9 B5 ♺,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+110,11,March,F9 B5 ♺,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+111,14,March,F9 B5 ♺,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+112,24,March,F9 B5,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+113,7,April,F9 B5 ♺,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+114,23,April,F9 B5,KSC,Crew-2,,LEO,NASA,Success,Success(drone ship)
+115,29,April,F9 B5,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+116,4,May,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+117,9,May,F9 B5,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+118,15,May,F9 B5,KSC,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+119,26,May,F9 B5,CCSFS,Starlink,,LEO,SpaceX,Success,Success(drone ship)
+120,3,June,F9 B5,KSC,SpaceX CRS-22,,LEO,NASA,Success,Success(drone ship)
+121,6,June,F9 B5,CCSFS,SXM-8,,GTO,Sirius XM,Success,Success(drone ship)
